@@ -11,7 +11,6 @@
 </div> 
  <br>
 
-![Snake animation](https://github.com/Robooh/Robooh/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
